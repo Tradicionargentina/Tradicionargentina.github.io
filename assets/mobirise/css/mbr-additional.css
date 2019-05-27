@@ -2383,7 +2383,7 @@ body {
   padding-top: 30px;
   padding-bottom: 45px;
   position: relative;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rrDsrwFq4z p {
   color: #767676;
@@ -2416,6 +2416,9 @@ body {
 }
 .cid-rrDsrwFq4z .card .card-header a.panel-title h4 .sign {
   padding-right: 1rem;
+}
+.cid-rrDsrwFq4z H4 {
+  color: #767676;
 }
 .cid-rq5V1qrBZk {
   padding-top: 0px;

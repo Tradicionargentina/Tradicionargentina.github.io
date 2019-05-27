@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "diadecampo.html",
+    "currentPage": "html.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -559,7 +559,7 @@
         }
       ]
     },
-    "diadecampo.html": {
+    "html.html": {
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Tradicion Argentina",

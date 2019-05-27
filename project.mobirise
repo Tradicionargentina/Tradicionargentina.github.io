@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "html.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -559,7 +559,7 @@
         }
       ]
     },
-    "html.html": {
+    "page1.html": {
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Tradicion Argentina",

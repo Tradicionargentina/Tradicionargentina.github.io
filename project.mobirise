@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Tradicion Argentina",
     "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
@@ -35,8 +35,10 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 42,
-    "versionPublish": "4.10.0"
+    "uniqCompNum": 37,
+    "versionPublish": "4.10.0",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {

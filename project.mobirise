@@ -38,7 +38,8 @@
     "uniqCompNum": 37,
     "versionPublish": "4.10.0",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -564,7 +565,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Web Site Generator Description",
+        "meta_descr": "Disfrutá de buen vino y la mejor carne argentina hecha al asador, en un entorno campestre, tranquilo y acogedor.",
         "title": "Tradicion Argentina",
         "order": 1
       },
